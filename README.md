@@ -1,4 +1,4 @@
-# CompoundE
+# CompoundE3D
 
 Code for "Knowledge Graph Embedding with 3D Compound Geometric Transformations"
 
