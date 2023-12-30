@@ -6,12 +6,12 @@ Code for "Knowledge Graph Embedding with 3D Compound Geometric Transformations"
 
 https://github.com/snap-stanford/ogb
 
-#### Recommended order of installation 
- - Create a python 3.8.8 environment using Anaconda
- - Install torch 1.11.0 using Anaconda
- - Install torch-geometric using Anaconda
+#### Environment setup guide
+ - Create a python environment using Anaconda
+ - Install latest version of torch using Anaconda
+ - Install latest version of torch-geometric using Anaconda
  - Install ogb using pip
- - Install other packages using pip
+ - Install tensorboardx using pip
 
 ## After installing the OGB environment, to reproduce the results
 
