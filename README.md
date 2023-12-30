@@ -17,7 +17,7 @@ https://github.com/snap-stanford/ogb
 
 ```
 CUDA_VISIBLE_DEVICES=0 python run.py --do_train --cuda --do_valid --do_test --evaluate_train \
-            --model CompoundE -n 125 -b 8192 -d 300 -g 8 -a 1.0 -adv -tr \
+            --model CompoundE3D_Complete_Mix_T_H -n 125 -b 8192 -d 300 -g 8 -a 1.0 -adv -tr \
             -lr 0.001 --max_steps 300000 --cpu_num 8 --test_batch_size 32  --print_on_screen
 ```
 
